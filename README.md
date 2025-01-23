@@ -1,1 +1,1 @@
-# imagestorage
+# Resource
